@@ -1,31 +1,10 @@
-****mzzczmmmwwwwbkwmwwwwwwww;wwwwbmbwwwwwwwwmz***********
-****xzQzwXmmmmwmmkwwmmwwwwm;;;mmmmmowwwmmmmmmwx**********
-****cCxzZwmmmmmmmhkmmmmmmm;;;;;mmmmwhZwaokmmmmzh*********
-****cmrmmwmmZmmmmwbmZZmmZ;;;;;;;aZhwdwmZkZmmmmwz*********
-***YmmrmwZmmZmmZZmZ*ZZmmZ;;;;;;;0mZmOdZZkmZZwZmZcY*******
-***rmmxmZmmmhwwZZamwkZZm;;;;;;;;;ZopowZOamZmbZmZZmw******
-***cmmrmmmwZkkmmmmbbZmm;;;;;;;;;;;ppC|QOmZZZoZZZoo*******
-***zmmdmZdZZZhwZmmbh*w;;;;;;;;;;;;;pbpZdmmmkZQ**bk*******
-***c*ZZmmmmmkZo*hZhdv~Q;;;;;;;;;;;;;OOZmwmhZbc***********
-***c*hZOZkmhwhmw00Ow;;;OZ;;;;;;;;;;;;OZdZkwZmc***********
-***z***ZZwkmmpkwbOZi;;;;;;);;;;;;;;;;;OOOpmZZc***********
-*****dwZhZmkmmmhJhX;;;;;;;;;;;;;;;;;;;;OZpZZZc***********
-*****ZZZZbmmakZdZO;;;;;;;;;;;;;;;;;;;;;;kpmZmc***********
-*******ZZ*wpmmZoo;;;;;;;;;;;;;;;;;;;;;;;;pZZZz***********
-*********d*czXmm;;;;;;;;;;;;;;;;;;;;;;;;;tmmmv***********
-***********cccm;;;;;;;;;;;;;;;;;;;;;;;;;;;cZmv***********
-***********vcc;;;;;;;;;;;;;(Y);;;;;;;;;;;;;xmn***********
-***********xz;;;;;;;;;;;;oZObaY0;;;;;;;;;;;;xr***********
-***********r;;;;;;;;;;;;**OZZZOZZ;;;;;;;;;;;;1z**********
-***********;;;;;;;;;;;;**OOZZZZZZZ;;;;;;;;;;;;Xv*********
-**********;;;;;;;;;;;;;*ZOZZZZZZZZ;;;;;;;;;;;;;xZ********
-*********;;;;;;;;;;;;;-OZZZZZZZZZZZ;;;;;;;;;;dJ;ccO******
-********;;;;;;;;;;;;;;;OOOZOpZZZZdZ;;;;;;;;;;;;}ZZmZZCccc
-******v;;;;;;;;;;;;;;;;mZZZZZZZZZZ;;;;;;;;;;;;;;;;mmmmmmm
-***Jcv;;;;;;;;;;;ZZaohQQ0dZZZZZZZZZhQ0Qa;;;;;;;;;;;Qmmmmm
-**zzz;;;;;;;wmZZZZmmmo**QQQ0bbpOapQQp*ommaZZc;;;;;;;Xmmmm
-*wzj;;;;YmmmZJmmmwammmma***000d0o*oaammmmmZmvZmm(;;;;zmmm
-*z];;mmmmmmmwzmmmwmmmmmmaoo**0O*aaoomwmmwmmmvwmmmmmm;;vmm
-*Xmmwpmmmmwmwwmmmpwwwmwwmoooooo**aaamwwwmmmZhmwmwwwwwmwmh
-*Xwwbpwwwwwwwwwwwdwwhwwwma**********hwwwwhw0wwwwwwwwwwwwh
-*XwwhpwwwwwwwwOwwawwwwww*****oa******wwwOdbXwwwwwwwwwwwwh
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300">
+    <rect width="100%" height="100%" fill="#0d1117"/>
+
+    <text x="20" y="40"
+          fill="#58a6ff"
+          font-family="monospace"
+          font-size="20">
+        Denis DevOps
+    </text>
+</svg>
