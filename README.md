@@ -94,10 +94,17 @@ Designed and deployed a resilient, multi-node cloud VPN infrastructure from scra
 # ▪ EDUCATION & CERTIFICATIONS
 
 <pre>
-🎓 <b>Skillbox</b> — Professional IT Education:
-├── [📜] Profession: DevOps Engineer PRO 2.0 (Comprehensive 1-Year Program)
-└── [📜] Course: SQL for Data Analysis (Query Optimization & Database Design)
+🎓 <b>Professional IT Education & Certifications</b>
+├── [📜] Skillbox — DevOps Engineer PRO 2.0 (Comprehensive 1-Year Program)
+├── [📜] Alaris Labs — Certified System Administrator & Network Specialist
+└── [📜] Alaris Labs — Enterprise Telecommunications (TCP & SMPP Protocols)
 </pre>
+
+<p align="center">
+  <img src="devops_certificate.png" alt="DevOps Engineer PRO 2.0 Certificate" width="32%" />
+  <img src="Certificate_TCP_SMPP.png" alt="Alaris Labs TCP & SMPP Certificate" width="32%" />
+  <img src="super_admin_certificate.png" alt="Alaris Labs System Administrator Certificate" width="32%" />
+</p>
 
 ---
 
