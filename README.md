@@ -121,10 +121,16 @@ Designed and deployed a resilient, multi-node cloud VPN infrastructure from scra
 
 ---
 
-[# ▪ CONTACTS
+# ▪ CONTACTS
 
-```bash
-curl -X GET [https://api.github.com/users/Dixlofos228/contact](https://api.github.com/users/Dixlofos228/contact) \
-  -H "Telegram: t.me/Deni_Ign" \
-  -H "Email: dix.lofos122@gmail.com"
-](https://www.linkedin.com/in/den-i-2484b9313/)
+<p align="left">
+  <a href="https://t.me/Deni_Ign" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-222222?style=flat-square&logo=telegram&logoColor=ffffff" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/den-i-2484b9313/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+  </a>
+  <a href="mailto:dix.lofos122@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" />
+  </a>
+</p>
