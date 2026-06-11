@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Dixlofos228 Banner" width="100%">
+  <img src="assets/banner.gif" alt="Dixlofos228 Banner" width="100%">
 </div>
 
 <pre>
