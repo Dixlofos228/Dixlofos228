@@ -125,12 +125,12 @@ Designed and deployed a resilient, multi-node cloud VPN infrastructure from scra
 
 <p align="left">
   <a href="https://t.me/Deni_Ign" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-222222?style=flat-square&logo=telegram&logoColor=ffffff" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-222222?style=flat-square&logo=telegram&logoColor=ffffff" alt="Telegram" height="35" />
   </a>
   <a href="https://www.linkedin.com/in/den-i-2484b9313/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-222222?style=flat-square&logo=linkedin&logoColor=ffffff" alt="LinkedIn" height="35" />
   </a>
   <a href="mailto:dix.lofos122@gmail.com">
-    <img src="https://img.shields.io/badge/Email-222222?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-222222?style=flat-square&logo=gmail&logoColor=ffffff" alt="Email" height="35" />
   </a>
 </p>
