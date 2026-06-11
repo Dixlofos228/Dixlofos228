@@ -1,22 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="1000"
-     height="500"
-     viewBox="0 0 1000 500">
+<td width="40%">
 
-  <rect width="100%" height="100%" fill="#0d1117"/>
+<pre>                                    
+****mzzczmmmwwwwbkwmwwwwwwww;wwwwbmbwwwwwwwwmz***********
+****xzQzwXmmmmwmmkwwmmwwwwm;;;mmmmmowwwmmmmmmwx**********
+****cCxzZwmmmmmmmhkmmmmmmm;;;;;mmmmwhZwaokmmmmzh*********
+****cmrmmwmmZmmmmwbmZZmmZ;;;;;;;aZhwdwmZkZmmmmwz*********
+***YmmrmwZmmZmmZZmZ*ZZmmZ;;;;;;;0mZmOdZZkmZZwZmZcY*******
+***rmmxmZmmmhwwZZamwkZZm;;;;;;;;;ZopowZOamZmbZmZZmw******
+***cmmrmmmwZkkmmmmbbZmm;;;;;;;;;;;ppC|QOmZZZoZZZoo*******
+***zmmdmZdZZZhwZmmbh*w;;;;;;;;;;;;;pbpZdmmmkZQ**bk*******
+***c*ZZmmmmmkZo*hZhdv~Q;;;;;;;;;;;;;OOZmwmhZbc***********
+***c*hZOZkmhwhmw00Ow;;;OZ;;;;;;;;;;;;OZdZkwZmc***********
+***z***ZZwkmmpkwbOZi;;;;;;);;;;;;;;;;;OOOpmZZc***********
+*****dwZhZmkmmmhJhX;;;;;;;;;;;;;;;;;;;;OZpZZZc***********
+*****ZZZZbmmakZdZO;;;;;;;;;;;;;;;;;;;;;;kpmZmc***********
+*******ZZ*wpmmZoo;;;;;;;;;;;;;;;;;;;;;;;;pZZZz***********
+*********d*czXmm;;;;;;;;;;;;;;;;;;;;;;;;;tmmmv***********
+***********cccm;;;;;;;;;;;;;;;;;;;;;;;;;;;cZmv***********
+***********vcc;;;;;;;;;;;;;(Y);;;;;;;;;;;;;xmn***********
+***********xz;;;;;;;;;;;;oZObaY0;;;;;;;;;;;;xr***********
+***********r;;;;;;;;;;;;**OZZZOZZ;;;;;;;;;;;;1z**********
+***********;;;;;;;;;;;;**OOZZZZZZZ;;;;;;;;;;;;Xv*********
+**********;;;;;;;;;;;;;*ZOZZZZZZZZ;;;;;;;;;;;;;xZ********
+*********;;;;;;;;;;;;;-OZZZZZZZZZZZ;;;;;;;;;;dJ;ccO******
+********;;;;;;;;;;;;;;;OOOZOpZZZZdZ;;;;;;;;;;;;}ZZmZZCccc
+******v;;;;;;;;;;;;;;;;mZZZZZZZZZZ;;;;;;;;;;;;;;;;mmmmmmm
+***Jcv;;;;;;;;;;;ZZaohQQ0dZZZZZZZZZhQ0Qa;;;;;;;;;;;Qmmmmm
+**zzz;;;;;;;wmZZZZmmmo**QQQ0bbpOapQQp*ommaZZc;;;;;;;Xmmmm
+*wzj;;;;YmmmZJmmmwammmma***000d0o*oaammmmmZmvZmm(;;;;zmmm
+*z];;mmmmmmmwzmmmwmmmmmmaoo**0O*aaoomwmmwmmmvwmmmmmm;;vmm
+*Xmmwpmmmmwmwwmmmpwwwmwwmoooooo**aaamwwwmmmZhmwmwwwwwmwmh
+*Xwwbpwwwwwwwwwwwdwwhwwwma**********hwwwwhw0wwwwwwwwwwwwh
+*XwwhpwwwwwwwwOwwawwwwww*****oa******wwwOdbXwwwwwwwwwwwwh
+...
+</pre>
 
-  <style>
-    .ascii {
-      fill: #58a6ff;
-      font-family: monospace;
-      font-size: 12px;
-    }
-  </style>
-
-  <text x="10" y="20" class="ascii">
-    <tspan x="10" dy="0">TEST</tspan>
-    <tspan x="10" dy="14">ASCII</tspan>
-    <tspan x="10" dy="14">WORKS</tspan>
-  </text>
-
-</svg>
+</td>
