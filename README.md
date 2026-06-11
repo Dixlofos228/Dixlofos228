@@ -1,13 +1,6 @@
-<table>
-<tr>
-
-<td width="40%">
-
-<img src="./assets/avatar.svg" width="100%">
-
-</td>
-
-<td width="60%">
+<div align="center">
+  <img src="banner.png" alt="Dixlofos228 Banner" width="100%">
+</div>
 
 <pre>
 denis@devops
@@ -41,8 +34,3 @@ Networking: ............ TCP/IP
 
 Experience: ............ ~1 year
 </pre>
-
-</td>
-
-</tr>
-</table>
