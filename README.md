@@ -121,9 +121,10 @@ Designed and deployed a resilient, multi-node cloud VPN infrastructure from scra
 
 ---
 
-# ▪ CONTACTS
+[# ▪ CONTACTS
 
 ```bash
 curl -X GET [https://api.github.com/users/Dixlofos228/contact](https://api.github.com/users/Dixlofos228/contact) \
   -H "Telegram: t.me/Deni_Ign" \
   -H "Email: dix.lofos122@gmail.com"
+](https://www.linkedin.com/in/den-i-2484b9313/)
