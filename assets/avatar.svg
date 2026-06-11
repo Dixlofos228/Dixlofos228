@@ -1,42 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500">
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="500"
+     viewBox="0 0 1000 500">
+
   <rect width="100%" height="100%" fill="#0d1117"/>
 
-  <text x="10" y="20"
-        fill="#58a6ff"
-        font-family="monospace"
-        font-size="12">
+  <style>
+    .ascii {
+      fill: #58a6ff;
+      font-family: monospace;
+      font-size: 12px;
+    }
+  </style>
 
-   <tspan x="10" dy="0">****mzzczmmmwwwwbkwmwwwwwwww;wwwwbmbwwwwwwwwmz***********</tspan>
-<tspan x="10" dy="14">****xzQzwXmmmmwmmkwwmmwwwwm;;;mmmmmowwwmmmmmmwx**********</tspan>
-<tspan x="10" dy="14">****cCxzZwmmmmmmmhkmmmmmmm;;;;;mmmmwhZwaokmmmmzh*********</tspan>
-<tspan x="10" dy="14">****cmrmmwmmZmmmmwbmZZmmZ;;;;;;;aZhwdwmZkZmmmmwz*********</tspan>
-<tspan x="10" dy="14">***YmmrmwZmmZmmZZmZ*ZZmmZ;;;;;;;0mZmOdZZkmZZwZmZcY*******</tspan>
-<tspan x="10" dy="14">***rmmxmZmmmhwwZZamwkZZm;;;;;;;;;ZopowZOamZmbZmZZmw******</tspan>
-<tspan x="10" dy="14">***cmmrmmmwZkkmmmmbbZmm;;;;;;;;;;;ppC|QOmZZZoZZZoo*******</tspan>
-<tspan x="10" dy="14">***zmmdmZdZZZhwZmmbh*w;;;;;;;;;;;;;pbpZdmmmkZQ**bk*******</tspan>
-<tspan x="10" dy="14">***c*ZZmmmmmkZo*hZhdv~Q;;;;;;;;;;;;;OOZmwmhZbc***********</tspan>
-<tspan x="10" dy="14">***c*hZOZkmhwhmw00Ow;;;OZ;;;;;;;;;;;;OZdZkwZmc***********</tspan>
-<tspan x="10" dy="14">***z***ZZwkmmpkwbOZi;;;;;;);;;;;;;;;;;OOOpmZZc***********</tspan>
-<tspan x="10" dy="14">*****dwZhZmkmmmhJhX;;;;;;;;;;;;;;;;;;;;OZpZZZc***********</tspan>
-<tspan x="10" dy="14">*****ZZZZbmmakZdZO;;;;;;;;;;;;;;;;;;;;;;kpmZmc***********</tspan>
-<tspan x="10" dy="14">*******ZZ*wpmmZoo;;;;;;;;;;;;;;;;;;;;;;;;pZZZz***********</tspan>
-<tspan x="10" dy="14">*********d*czXmm;;;;;;;;;;;;;;;;;;;;;;;;;tmmmv***********</tspan>
-<tspan x="10" dy="14">***********cccm;;;;;;;;;;;;;;;;;;;;;;;;;;;cZmv***********</tspan>
-<tspan x="10" dy="14">***********vcc;;;;;;;;;;;;;(Y);;;;;;;;;;;;;xmn***********</tspan>
-<tspan x="10" dy="14">***********xz;;;;;;;;;;;;oZObaY0;;;;;;;;;;;;xr***********</tspan>
-<tspan x="10" dy="14">***********r;;;;;;;;;;;;**OZZZOZZ;;;;;;;;;;;;1z**********</tspan>
-<tspan x="10" dy="14">***********;;;;;;;;;;;;**OOZZZZZZZ;;;;;;;;;;;;Xv*********</tspan>
-<tspan x="10" dy="14">**********;;;;;;;;;;;;;*ZOZZZZZZZZ;;;;;;;;;;;;;xZ********</tspan>
-<tspan x="10" dy="14">*********;;;;;;;;;;;;;-OZZZZZZZZZZZ;;;;;;;;;;dJ;ccO******</tspan>
-<tspan x="10" dy="14">********;;;;;;;;;;;;;;;OOOZOpZZZZdZ;;;;;;;;;;;;}ZZmZZCccc</tspan>
-<tspan x="10" dy="14">******v;;;;;;;;;;;;;;;;mZZZZZZZZZZ;;;;;;;;;;;;;;;;mmmmmmm</tspan>
-<tspan x="10" dy="14">***Jcv;;;;;;;;;;;ZZaohQQ0dZZZZZZZZZhQ0Qa;;;;;;;;;;;Qmmmmm</tspan>
-<tspan x="10" dy="14">**zzz;;;;;;;wmZZZZmmmo**QQQ0bbpOapQQp*ommaZZc;;;;;;;Xmmmm</tspan>
-<tspan x="10" dy="14">*wzj;;;;YmmmZJmmmwammmma***000d0o*oaammmmmZmvZmm(;;;;zmmm</tspan>
-<tspan x="10" dy="14">*z];;mmmmmmmwzmmmwmmmmmmaoo**0O*aaoomwmmwmmmvwmmmmmm;;vmm</tspan>
-<tspan x="10" dy="14">*Xmmwpmmmmwmwwmmmpwwwmwwmoooooo**aaamwwwmmmZhmwmwwwwwmwmh</tspan>
-<tspan x="10" dy="14">*Xwwbpwwwwwwwwwwwdwwhwwwma**********hwwwwhw0wwwwwwwwwwwwh</tspan>
-<tspan x="10" dy="14">*XwwhpwwwwwwwwOwwawwwwww*****oa******wwwOdbXwwwwwwwwwwwwh</tspan> 
-
+  <text x="10" y="20" class="ascii">
+    <tspan x="10" dy="0">TEST</tspan>
+    <tspan x="10" dy="14">ASCII</tspan>
+    <tspan x="10" dy="14">WORKS</tspan>
   </text>
+
 </svg>
