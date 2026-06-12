@@ -8,7 +8,9 @@
 ┌── [👤] Denis Ignatenko
 ├── [🚀] DevOps / SRE Engineer
 ├── [📍] Uruguay, Montevideo
+  
 └── [⚡] 18 y.o.
+  
 </pre>
 
 ---
